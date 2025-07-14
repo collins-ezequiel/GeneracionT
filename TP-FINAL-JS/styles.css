@@ -1,0 +1,25 @@
+body {
+    background: #222;
+    color: white;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    background: #333;
+    width: 300px;
+    margin: 100px auto;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+input {
+    width: 80%;
+    
+    height: 30px;
+    font-size: 16px;
+}
+
+.end-game-container {
+    margin-top: 20px;
+}
